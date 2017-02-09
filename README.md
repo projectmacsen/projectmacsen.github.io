@@ -1,4 +1,4 @@
-jasperproject.github.io
+stefanoghazzali.github.io
 =======================
 
-Web site for general information and documentation
+Web site for general information and documentation about Macsen
