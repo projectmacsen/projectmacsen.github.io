@@ -4,30 +4,30 @@ layout: default
 currentpage: hardware
 ---
 
-Hardware Guide
+Canllaw caledwedd
 ===
 
-Jasper is designed specifically for the Raspberry Pi (Model B) and requires some additional hardware like a wifi adapter and USB microphone. The suggested hardware is indicated below with links for further details. You may try slightly different brands/specifications of hardware, but we cannot guarantee Jasper will work on them. Jasper is not affiliated with any of the linked hardware vendors.
+Macsen yn benodol ar gyfer y Raspberry Pi (Model B) a gofyn am rywfaint o galedwedd ychwanegol fel adapter WiFi a USB meicroffon. Mae'r caledwedd a awgrymir yn cael ei nodi isod gyda dolenni am fanylion pellach. Efallai y byddwch yn ceisio brandiau / manylebau ychydig yn wahanol o galedwedd, ond ni allwn warantu y bydd Macsen yn gweithio arnynt. Nid yw Macsen yn gysylltiedig ag unrhyw un o'r gwerthwyr caledwedd cysylltiedig.
 
-<h2 class="linked" id='complete-list'><a href="#complete-list" title="Permalink to this headline">The Complete List</a></h2>
+<h2 class="linked" id='complete-list'><a href="#complete-list" title="Permalink to this headline">Y Rhestr Gyflawn</a></h2>
 
 - [Raspberry Pi Model B](https://www.google.com/shopping/product/16525736034140563056).
-- USB Microphone (we tested with [Akiro Kinobo USB Microphone](http://www.amazon.com/USB-2-0-Microphone-Recognition-Software/%20dp/B008CNZOJY/ref=sr_1_1?s=electronics))
-- [4GB SD Card](https://www.google.com/shopping/product/4813288882623522717)
-- [Ethernet Cable](https://www.google.com/search?hl=en&amp;tbm=shop&amp;q=ethernet+cable)
+- USB Meicroffon (rydym yn profi gyda [Akiro Kinobo USB Meicroffon](http://www.amazon.com/USB-2-0-Microphone-Recognition-Software/%20dp/B008CNZOJY/ref=sr_1_1?s=electronics))
+- [Cerdyn SD 4GB](https://www.google.com/shopping/product/4813288882623522717)
+- [Cable Ethernet](https://www.google.com/search?hl=en&amp;tbm=shop&amp;q=ethernet+cable)
 - [Airlink Mini-USB Adapter](https://www.google.com/search?q=Airlink+Mini-USB+Adapter) (optional—see below)
 - [Micro-USB Cable](http://www.amazon.com/Monoprice-Male-Micro-28AWG-Cable/dp/B001U3SU8U/ref=pd_sim_pc_1)
 - [USB Wall Charging Adapter](https://www.google.com/search?q=USB+wall+charger)
 - [Speakers that work through the Raspberry Pi audio jack (probably need to be self-powered)](https://www.google.com/shopping/product/1749789584867681205)
 
-The [Raspberry Pi Verified Peripherals List](http://elinux.org/RPi_VerifiedPeripherals) may be helpful for finding substitutes for the products recommended above.
+The [Raspberry Pi Verified Peripherals List](http://elinux.org/RPi_VerifiedPeripherals) Efallai y bydd y Rhestr  yn ddefnyddiol i ddod o hyd dirprwyon ar gyfer y cynhyrchion a argymhellir uchod.
 
-<h2 class="linked" id='assembly'><a href="#assembly" title="Permalink to this headline">Assembly</a></h2>
+<h2 class="linked" id='assembly'><a href="#assembly" title="Permalink to this headline">Cynulliad</a></h2>
 
-Assembly of the required components is straightforward. Insert the microphone, SD card, wireless adapter (if you have one), micro-USB cable, ethernet cable, and speakers into the Raspberry Pi. The USB wall charging adapter is recommended to power Jasper as a standalone device.
+Cynulliad o'r elfennau gofynnol yn syml. Mewnosod y meicroffon, cerdyn SD, adapter di-wifr (os oes gennych un), micro-USB cebl, cebl ethernet, a siaradwyr i mewn i'r Raspberry Pi. Mae'r wal USB adapter codi tâl argymhellir i bweru Macsen fel dyfais arunig.
 
-The ethernet cable will be used to log in to the pi from a computer during the software installation step. After installation, if you prefer to use a wireless connection, this cable can be removed.
+Bydd y cebl ethernet yn cael ei ddefnyddio i fewngofnodi i'r pi o gyfrifiadur yn ystod y cam gosod meddalwedd. Ar ôl gosod, os well gennych ddefnyddio cysylltiad di-wifr, cebl hwn gellir cael gwared ar.
 
-<h3 class="linked" id='internet'><a href="#internet" title="Permalink to this headline">Internet Connection</a></h3>
+<h3 class="linked" id='internet'><a href="#internet" title="Permalink to this headline">Cysylltiad rhyngrwyd</a></h3>
 
-As mentioned above, the wireless adapter is optional. Jasper runs just fine on a wired connection (via ethernet), so you can choose between the two setups depending on what works best for you.
+Fel y soniwyd uchod, mae'r adapter di-wifr yn ddewisol. Macsen yn rhedeg jyst ddirwya ar gysylltiad gwifrog (drwy ethernet), felly gallwch ddewis rhwng y ddau setups yn dibynnu ar yr hyn sy'n gweithio orau i chi.

@@ -17,6 +17,14 @@ $ mkdir src
 $ cd src
 $ git clone https://github.com/techiaith/macsen.git
 $ cd macsen
-$ ./setup-rpi.sh
+$ ./prepare-rpi.sh
 ```
 
+## Gosod Macsen ar eich cyfrifiadur linux
+```
+$ mkdir src
+$ cd src
+$ git clone https://github.com/techiaith/macsen.git
+$ cd macsen
+$ ./prepare.sh
+```
