@@ -1,4 +1,4 @@
-name: "Macsen Project"
+name: "Project Macsen"
 description: "Mae Macsen yn feddalwedd cynorthwyydd personol digidol Cymraeg cod agored"
-highlighter: pygments
+highlighter: rouge
 markdown: kramdown
