@@ -4,7 +4,6 @@ layout: default
 currentpage: usage
 ---
 
-12/5000
 Defnyddio Macsen
 ===
 
