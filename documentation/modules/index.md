@@ -1,39 +1,61 @@
 ---
-title: Third-Party Modules
+title: Modules
 layout: default
 currentpage: modules
 ---
 
-Third-Party Modules
+Modiwlau
 ===
 
-Below are some Jasper modules written by other developers. If you'd like to list your module here, [submit a pull request](https://github.com/jasperproject/jasperproject.github.io/blob/master/documentation/modules/index.md).
+Isod ceir rhai modiwlau Macsen a ysgrifennwyd gennym ni.
 
-- [Google Calendar](https://github.com/marclave/Jasper-Google-Calendar) -- The Google Calendar module lets you check your Google calendar today or tomorrow
-for events, and it lets you add an event to your calendar.
+- [Tywydd] -- Mae'r Modiwl Tywydd rhoi'r tywydd
 
-- [Twitter](https://github.com/marclave/Jasper-Twitter) -- The Twitter module lets you tweet, check whats trending and check for any twitter notifications which include: Direct messages, retweets or mentions.
 
-- [Evernote](https://github.com/JasonTwente/Jasper-Evernote) -- The Evernote module lets you store notes for you in your Evernote account.
+- [Newyddion]-- The Twitter module lets you tweet, check whats trending and check for any twitter notifications which include: Direct messages, retweets or mentions.
 
-- [WolframAlpha](https://github.com/nexhero/wolframalpha_jasper) -- The WolframAlpha module lets you ask question to WolframAlpha search engine.
+- [dihareb] -- The Evernote module lets you store notes for you in your Evernote account.
 
-- [Status](https://github.com/edouardpoitras/jasper-status) -- The Status module outputs system status information upon request.
+- [Amser]-- The WolframAlpha module lets you ask question to WolframAlpha search engine.
 
-- [Movies](https://github.com/edouardpoitras/jasper-movies) -- The Movies module is used to retrieve movie information.
-
-- [Define](https://github.com/iamjake648/jasper-dictionary) -- The Define module is used to get definitions of words. 
-
-- [Wiki](https://github.com/iamjake648/jasper-wiki) -- The Wiki module is used to get a Wikipedia summary of a word or phrase.
-
-- [Domoticz](https://github.com/nlooije/Jasper-Domoticz) -- The Domoticz home automation module is used to issue commands to a Domoticz server using the JSON API.
-
-- [Find My iPhone](https://github.com/androbwebb/jasper-find-iphone-module) -- The Find My iPhone module is used to force your phone to ring using the apple service "find my iphone"
-
-- [Yelp](https://github.com/androbwebb/jasper-yelp-module) -- The yelp module is used to find a good restaurant in a given area. The module can also answer various questions about the restaurant.
-
-- [Stocks](https://github.com/dmbuchta/jasper-stocks.git) -- The stock module is used to get live stock quotes.
-
-- [OpenWeatherMap](https://github.com/G10DRAS/JasperModules.git) -- Open Weather Map API to get weather forecast.
-
-- [Currency Exchage Rate Calculator](https://github.com/G10DRAS/JasperModules.git) -- Get Xchange Rate for two Currencies.
+Rydym yn chwilio i ddatblygu modiwlau ar gyfer y cwestiynau canlynol: -
+BETH FYDD TYWYDD FORY 
+  BETH FYDD TYWYDD YFORY 
+  BETH OEDD NEWYDDION DDOE 
+  BETH OEDD PENAWDAU DDOE 
+  BETH OEDD Y NEWYDDION DDOE 
+  BETH OEDD Y PENAWDAU DDOE 
+  BETH YDY'R NEWYDDION 
+  BETH YDY'R PENAWDAU 
+  BETH YDY'R TYWYDD FORY 
+  BETH YDY'R TYWYDD HEDDIW 
+  BETH YDY'R TYWYDD YFORY 
+  BETH YW TYWYDD FORY 
+  BETH YW TYWYDD HEDDIW 
+  BETH YW TYWYDD YFORY 
+  BETH YW'R NEWYDDION 
+  BETH YW'R NEWYDDION HEDDIW 
+  BETH YW'R PENAWDAU 
+  BETH YW'R PENAWDAU HEDDIW 
+  BETH YW'R TYWYDD FORY 
+  BETH YW'R TYWYDD HEDDIW 
+  BETH YW'R TYWYDD YFORY 
+  CHWARAEA FIWSIG 
+  CHWARAEA FIWSIG ARAF 
+  CHWARAEA FIWSIG CYMRAEG 
+  CHWARAEA FIWSIG DAWNSIO 
+  CHWARAEA FIWSIG HAPUS 
+  CHWARAEA FIWSIG ROC 
+  CHWARAEA GERDDORIAETH 
+  CHWARAEA GERDDORIAETH ARAF 
+  CHWARAEA GERDDORIAETH CYMRAEG 
+  CHWARAEA GERDDORIAETH DAWNSIO 
+  CHWARAEA GERDDORIAETH HAPUS 
+  CHWARAEA GERDDORIAETH ROC 
+  DISTAWA 
+  DYWEDA DIHAREB 
+  DYWEDA JÔC 
+  FAINT O'R GLOCH YDY HI 
+  FAINT O'R GLOCH YW HI 
+  MACSEN 
+  RHO DIHAREB 
