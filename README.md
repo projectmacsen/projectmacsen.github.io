@@ -1,4 +1,4 @@
-stefanoghazzali.github.io
+projectmacsen.github.io
 =======================
 
-Web site for general information and documentation about Macsen
+Wefan i Project Macsen - Mae Macsen yn feddalwedd cynorthwyydd personol digidol Cymraeg cod agored. Mae’n rhedeg ar y Raspberry Pi.
