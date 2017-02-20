@@ -37,11 +37,11 @@ Ar ôl dweud Macsen, rhaid i chi aros am y sain uchel cyn siarad eich gorchymyn.
 
 <h2 class="linked" id='modules'><a href="#modules" title="Permalink to this headline">Modiwlau i roi cynnig arnyn nhw</a></h2>
 
-Rydym wedi gosod y modiwlau canlynol o fewn meddalwedd Macsen yn barod er mwyn dangos galluoedd Macsen:
+Rydym wedi rhagosod y modiwlau canlynol o fewn meddalwedd Macsen er mwyn dangos beth all Macsen wneud:
 
 - Amser: "FAINT O’R GLOCH YW HI?" "BETH YW'R AMSER?" "BETH YDI'R AMSER?"
 - Newyddion: "BETH YW’R NEWYDDION?" "BETH YDI'R NEWYDDION?"
 - dihareb : "RHO DDIHAREB I MI"
 - Tywydd: "BETH YW'R TYWYDD HEDDIW" "BETH YDI'R TYWYDD HEDIW?"
 
-Os bydd Macsen yn cael anhawster i glywed eich ciwiau, gall helpu i symud y microffon yn bellach oddi wrth y seinyddion, gostwng lefel y sain, a / neu siarad yn nes at y microffon.
+Os bydd Macsen yn cael anhawster i glywed eich ciwiau, ceisiwch symud y microffon yn bellach oddi wrth y seinyddion, gostwng lefel y sain, a / neu siarad yn nes at y microffon.
