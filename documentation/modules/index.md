@@ -9,15 +9,15 @@ Modiwlau
 
 Isod ceir rhai modiwlau Macsen a ysgrifennwyd gennym ni.
 
-- Tywydd -- Mae'r Modiwl Tywydd rhoi'r tywydd
+- Tywydd -- Mae'r Modiwl Tywydd rhoi rhagolygon y tywydd 
 
-- Newyddion -- Mae'r modiwl newyddion yn dychwelyd y newyddion o Golwg360.
+- Newyddion -- Mae'r Modiwl Newyddion yn rhoi'r newyddion o Golwg360
 
-- dihareb -- Mae'r modiwl ddihareb yn dychwelyd ddihareb y dydd
+- Dihareb -- Mae'r Modiwl Dihareb yn rhoi dihareb y dydd
 
-- Amser -- Mae'r modiwl amser yn dychwelyd yr amser cyfredol
+- Amser -- Mae'r Modiwl Amser yn dweud faint o'r gloch yw hi
 
-Rydym yn chwilio i ddatblygu modiwlau ar gyfer y cwestiynau canlynol: -
+Ar hyn o bryd mae Macsen yn adnabod y geiriau a'r brawddegau canlynol. Mae croeso i chi gyfrannu at addasu a gwella'r atebion i'r rhain: -
   
   BETH FYDD TYWYDD FORY 
   
@@ -87,9 +87,7 @@ Rydym yn chwilio i ddatblygu modiwlau ar gyfer y cwestiynau canlynol: -
   
   DISTAWA 
   
-  DYWEDA DIHAREB 
-  
-  DYWEDA JÔC 
+  DYWEDA DDIHAREB 
   
   FAINT O'R GLOCH YDY HI 
   
@@ -97,6 +95,6 @@ Rydym yn chwilio i ddatblygu modiwlau ar gyfer y cwestiynau canlynol: -
   
   MACSEN 
   
-  RHO DIHAREB 
+  RHO DDIHAREB 
 
-Os hoffech chi i ddatblygu modiwl ar gyfer un o'r cwestiynau uchod mae croeso i chi gysylltu
+Hefyd, rydyn ni'n bwriadu ychwanegu at y modiwlau hyn. Cysylltwch â ni os oes gennych 
