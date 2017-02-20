@@ -7,7 +7,7 @@ currentpage: hardware
 Canllaw caledwedd
 ===
 
-Ar hyn o bryd mae Macsen yn gweithio'n benodol ar y Raspberry Pi (Model B) ac arno angen rhywfaint o galedwedd ychwanegol fel addasydd WiFi a microffon USB. Nodir y galedwedd rydym yn ei hargymell isod, gyda dolenni ar gyfer manylion pellach. Efallai y byddwch yn ceisio defnyddio brandiau / mathau ychydig yn wahanol o galedwedd, ond ni allwn warantu y bydd Macsen yn gweithio gyda nhw. Nid yw Macsen yn gysylltiedig ag unrhyw un o'r gwerthwyr caledwedd a enwir.
+Ar hyn o bryd mae Macsen yn gweithio'n benodol ar y Raspberry Pi (Model B). Bydd angen rhywfaint o galedwedd ychwanegol arnoch, e.e. addasydd WiFi a microffon USB. Mae'r galedwedd rydym yn ei hargymell yn cael ei rhestru isod, gyda dolenni ar gyfer manylion pellach. Efallai y byddwch yn ceisio defnyddio brandiau / mathau ychydig yn wahanol o galedwedd, ond ni allwn warantu y bydd Macsen yn gweithio gyda nhw. Nid yw Macsen yn gysylltiedig ag unrhyw un o'r gwerthwyr caledwedd a enwir.
 
 <h2 class="linked" id='complete-list'><a href="#complete-list" title="Permalink to this headline">Y Rhestr Gyflawn</a></h2>
 
@@ -26,7 +26,7 @@ Gall y [Raspberry Pi Verified Peripherals List](http://elinux.org/RPi_VerifiedPe
 
 Mater syml yw gosod y darnau at ei gilydd. Cysylltwch y microffon, cerdyn SD, addasydd di-wifr (os oes gennych un), cebl micro-USB, cebl Ethernet, a'r seinyddion wrth y Raspberry Pi. Argymhellir defnyddio'r addasydd USB sy'n gwefru ar y wal i bweru Macsen fel dyfais ar ei ben ei hun.
 
-Defnyddir y cebl Ethernet  i fewngofnodi i'r pi o gyfrifiadur arall wrth osod y feddalwedd. Ar ôl y broses osod, os yw'n well gennych ddefnyddio cysylltiad di-wifr, gellir cael gwared ar y cebl hwn.
+Defnyddir y cebl Ethernet  i fewngofnodi i'r Pi o gyfrifiadur arall wrth osod y feddalwedd. Ar ôl y broses osod, os yw'n well gennych ddefnyddio cysylltiad di-wifr, gellir cael gwared ar y cebl hwn.
 
 <h3 class="linked" id='internet'><a href="#internet" title="Permalink to this headline">Cysylltiad rhyngrwyd</a></h3>
 
