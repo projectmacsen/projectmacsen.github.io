@@ -20,7 +20,7 @@ Gallwch hefyd ddechrau Jasper yn awtomatig bob tro mae'r cyfrfifiadur yn ailgych
 @reboot /home/pi/jasper/jasper.py;
 {% endhighlight %}
 
-Ailgychwyn y Raspberry Pi
+Ailgychwynnwch y Raspberry Pi
 
 
 <h2 class="linked" id='interacting'><a href="#interacting" title="Permalink to this headline">Rhyngweithio gyda Macsen</a></h2>
