@@ -13,7 +13,7 @@ Cyfrannu
 ## CYFRANNWCH EICH LLAIS DRWY EIN AP TORFOLI ‘PALDARUO’
 <p style="text-align: left;" align="center"> <a href="https://itunes.apple.com/gb/app/paldaruo/id840185808">Apple AppStore </a>  <a href="https://play.google.com/store/apps/details?id=com.cysgliad.paldaruo">Google Play</a></p>
 
-Defnyddir yr ap Paldaruo i gasglu, neu dorfoli ('crowdsource'), recordiadau gan wahanol unigolion yn siarad Cymraeg. Mae'r recordiadau yn cael eu cadw o fewn y corpws lleferydd Paldaruo. Mae'r corpws hyd yn hyn yn cynnwys tua 34 awr o recordiadau gan bron i 500 unigolyn ar gyfer hyfforddi'r systemau adnabod lleferydd Cymraeg oddi fewn i Macsen.
+Defnyddir yr ap Paldaruo i gasglu, neu dorfoli ('crowdsource'), recordiadau gan wahanol unigolion yn siarad Cymraeg. Mae'r recordiadau yn cael eu cadw o fewn corpws lleferydd Paldaruo. Mae'r corpws hyd yn hyn yn cynnwys tua 34 awr o recordiadau gan bron i 500 unigolyn ar gyfer hyfforddi'r systemau adnabod lleferydd Cymraeg oddi fewn i Macsen.
 
 Ond rydyn ni angen mwy o recordiadau, gan fwy o unigolion, er mwyn gwella graddfa cywirdeb yr adnabod lleferydd ac ehangu'r mathau o destunau a chwestiynau mae'n eu hadnabod.
 
