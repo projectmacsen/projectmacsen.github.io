@@ -39,10 +39,9 @@ Ar ôl dweud Macsen, rhaid i chi aros am y sain uchel cyn siarad eich gorchymyn.
 
 Rydym wedi gosod y modiwlau canlynol o fewn meddalwedd Macsen yn barod er mwyn dangos galluoedd Macsen:
 
-- Amser: "FAINT O’R GLOCH YW HI?"
-- Newyddion: "BETH YW’R NEWYDDION?"
-- dihareb : "RHO DDIHAREB?"
-- Tywydd: "BETH YW'R TYWYDD HEDDIW"
+- Amser: "FAINT O’R GLOCH YW HI?" "BETH YW'R AMSER?" "BETH YDI'R AMSER?"
+- Newyddion: "BETH YW’R NEWYDDION?" "BETH YDI'R NEWYDDION?"
+- dihareb : "RHO DDIHAREB I MI"
+- Tywydd: "BETH YW'R TYWYDD HEDDIW" "BETH YDI'R TYWYDD HEDIW?"
 
-
-Efallai y bydd Macsen yn cael anhawster i glywed eich ciwiau pan fydd y gerddoriaeth yn uchel. Yn yr achosion hyn, mae'n helpu i symud y microffon yn bellach oddi wrth y seinyddion, gostwng lefel y sain, a / neu siarad yn nes at y microffon.
+Os bydd Macsen yn cael anhawster i glywed eich ciwiau, gall helpu i symud y microffon yn bellach oddi wrth y seinyddion, gostwng lefel y sain, a / neu siarad yn nes at y microffon.
