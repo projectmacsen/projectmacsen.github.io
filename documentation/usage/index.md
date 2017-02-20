@@ -7,7 +7,7 @@ currentpage: usage
 Defnyddio Macsen
 ===
 
-<h2 class="linked" id='ddechrau_macsen'><a href="#ddechrau_macsen" title="Permalink to this headline">Ddechrau Macsen</a></h2>
+<h2 class="linked" id='dechrau_macsen'><a href="#dechrau_macsen" title="Permalink to this headline">Dechrau Macsen</a></h2>
 
 Ar ol <a href="/documentation/configuration/">Ffurfweddu Macsen</a>, gallwch ddechrau Macsen drwy deipio:
 {% highlight bash %}
