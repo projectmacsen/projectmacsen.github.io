@@ -12,7 +12,7 @@ Ar hyn o bryd mae Macsen yn gweithio'n benodol ar y Raspberry Pi (Model B). Bydd
 <h2 class="linked" id='complete-list'><a href="#complete-list" title="Permalink to this headline">Y Rhestr Gyflawn</a></h2>
 
 - [Raspberry Pi Model B](https://www.google.com/shopping/product/16525736034140563056).
-- Microffon USB (rydym yn profi gyda [Akiro Kinobo USB Meicroffon](http://www.amazon.com/USB-2-0-Microphone-Recognition-Software/%20dp/B008CNZOJY/ref=sr_1_1?s=electronics))
+- Microffon USB (rydym yn profi gyda'r [Akiro Kinobo USB Microphone](http://www.amazon.com/USB-2-0-Microphone-Recognition-Software/%20dp/B008CNZOJY/ref=sr_1_1?s=electronics))
 - [Cerdyn SD 4GB](https://www.google.com/shopping/product/4813288882623522717)
 - [Cebl Ethernet](https://www.google.com/search?hl=en&amp;tbm=shop&amp;q=ethernet+cable)
 - [Addasydd Airlink Mini-USB](https://www.google.com/search?q=Airlink+Mini-USB+Adapter) (dewisol—gweler isod)
