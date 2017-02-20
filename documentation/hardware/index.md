@@ -24,9 +24,9 @@ Gall y [Raspberry Pi Verified Peripherals List](http://elinux.org/RPi_VerifiedPe
 
 <h2 class="linked" id='assembly'><a href="#assembly" title="Permalink to this headline">Cydosod</a></h2>
 
-Mater syml yw gosod y darnau at ei gilydd. Cysylltwch y microffon, cerdyn SD, addasydd di-wifr (os oes gennych un), cebl micro-USB, cebl Ethernet, a'r seinyddion wrth y Raspberry Pi. Argymhellir defnyddio'r addasydd USB sy'n gwefru ar y wal i bweru Macsen fel dyfais ar ei ben ei hun.
+Mater syml yw gosod y darnau at ei gilydd. Cysylltwch y microffon, cerdyn SD, addasydd di-wifr (os oes gennych un), cebl micro-USB, cebl Ethernet, a'r seinyddion wrth y Raspberry Pi. Argymhellir defnyddio'r addasydd USB sy'n gwefru ar y wal i bweru Macsen fel dyfais ar ei phen ei hun.
 
-Defnyddir y cebl Ethernet  i fewngofnodi i'r Pi o gyfrifiadur arall wrth osod y feddalwedd. Ar ôl y broses osod, os yw'n well gennych ddefnyddio cysylltiad di-wifr, gellir cael gwared ar y cebl hwn.
+Defnyddir y cebl Ethernet  i fewngofnodi i'r Pi o gyfrifiadur arall wrth osod y feddalwedd. Ar ôl y broses osod, os yw'n well gennych ddefnyddio cysylltiad di-wifr, gallwch cael gwared ar y cebl hwn.
 
 <h3 class="linked" id='internet'><a href="#internet" title="Permalink to this headline">Cysylltiad rhyngrwyd</a></h3>
 
