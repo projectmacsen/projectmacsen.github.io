@@ -9,16 +9,19 @@ Defnyddio Macsen
 
 <h2 class="linked" id='dechrau_macsen'><a href="#dechrau_macsen" title="Permalink to this headline">Dechrau Macsen</a></h2>
 
-Ar ol <a href="/documentation/configuration/">Ffurfweddu Macsen</a>, gallwch ddechrau Macsen drwy deipio:
-{% highlight bash %}
-/home/pi/jasper/jasper.py
-{% endhighlight %}
-
-Gallwch hefyd ddechrau Jasper yn awtomatig bob tro mae'r cyfrfifiadur yn ailgychwyn. I wneud hynny, -e `crontab -e`,  yna ychwanegwch y llinell ganlynol, os nad yw yno yn barod
+Ar ôl <a href="/documentation/configuration/">Ffurfweddu Macsen</a>, gallwch ddechrau Macsen drwy deipio:
 
 {% highlight bash %}
-@reboot /home/pi/jasper/jasper.py;
+python jasper.py
 {% endhighlight %}
+
+Gallwch hefyd ddechrau Jasper yn awtomatig bob tro mae'r cyfrfifiadur yn ailgychwyn. I wneud hynny, -e `crontab -e`,  yna ychwanegwch y llinell ganlynol, os nad yw yno yn barod (*N.B.* bydd angen i chi defnyddio lleoliad cywir eich gosodiad Macsen) 
+
+{% highlight bash %}
+@reboot /home/pi/macsen/jasper.py;
+{% endhighlight %}
+
+
 
 Ailgychwynnwch y Raspberry Pi
 
