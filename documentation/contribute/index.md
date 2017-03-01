@@ -21,6 +21,4 @@ Dyma fideo ar sut i'w ddefnyddio:
 
 <iframe src="https://player.vimeo.com/video/98728429" width="400" height="225" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-Gweler <a href="https://github.com/techiaith/macsen/blob/master/CYFRANNU-MACSEN.md">CYFRANNU-MACSEN</a> am ragor o fanylion ar gyfrannu i Macsen.
-
 Gweler ein <a href="http://techiaith.cymru/lleferydd/adnabod-lleferydd/">Tudalen Adnabod Lleferydd</a> am ragor o fanylion am gydrannau ac adnoddau adnabod lleferydd Cymraeg Macsen a'r Porth Technolegau Iaith.
