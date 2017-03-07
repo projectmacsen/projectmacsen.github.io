@@ -53,7 +53,24 @@ This site has some good information regarding alsa: [http://www.volkerschatz.com
 ## Raspberry Pi-specific
 ### HDMI Audio
 
-If you are using HDMI out and are losing the first part of audio playback try running `vcgencmd force_audio hdmi 1`. See the [[Raspberry Pi section|Devices#raspberry-pi]] in [[Devices]] for details.
+If you are using HDMI out and are losing the first part of audio playback try running `vcgencmd force_audio hdmi 1`. 
+
+## Raspberry Pi
+
+Works fine by default!
+
+**HDMI Audio Users:**
+_Note: If you are having trouble with the sound cutting off the first few seconds, try running the following command:_
+
+` vcgencmd force_audio hdmi 1`
+
+_If it works you can add it to cron, with these steps_
+
+1. crontab -e 
+
+2. @reboot  vcgencmd force_audio hdmi 1 
+
+3. save, exit and reboot.
 
 ### Arch Linux
 
