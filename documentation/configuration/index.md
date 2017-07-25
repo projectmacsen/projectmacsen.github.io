@@ -21,36 +21,36 @@ These errors might be these:
 
     > alsaaudio.ALSAAudioError: No such file or directory [plughw:1]
 
-    Check the name of your sound card input device. Selecting the device `default` for input and / or output often works.
+    Gwiriwch enw eich dyfais mewnbynnu cerdyn sain. Mae dewis y ddyfais ragosodedig ar gyfer mewnbwn a / neu allbwnyn gweithio yn aml. 
 
-    You can use these commands to figure out your device names:
+    Gallwch ddefnyddio'r gorchmynion hyn i weithio allan enwau eich dyfais: 
 ```
 arecord -L
 aplay -L
 ```
 
-     If you for some reason cannot use a name from the list, use the override config option. Otherwise, please stick to the listed names.
+     Os na fedrwch chi am ryw reswm ddefnyddio enw o'r rhestr, defnyddiwch yr opsiwn 'override config'. Fel arall, cadwch at yr enwau sy'n cael eu rhestru. option. 
 
-    To list your sound cards, use 
+    I restru eich cardiau sain, defnyddiwch  
 ``` 
 aplay -l
 arecord -l
 ```
-- Another application is using your device:
+- Mae rhaglen arall yn defnyddio eich dyfais:
     
-    > alsaaudio.ALSAAudioError: Device or resource busy [plughw:1]
+    > alsaaudio.ALSAAudioError: Dyfais neu adnodd yn brysur [plughw:1]
 
-### Checking if your system audio works
-1. To test playback, run `aplay /usr/share/sounds/alsa/Front_Center.wav`
-2. To rest recording, run `arecord -D yourdevice test.wav` - exit with CTRL+C and `aplay test.wav`
+### Gwirio i weld os yw'r sain yn gweithio ar eich system 
+1. I brofi chwarae yn ôl, rhedwch `aplay /usr/share/sounds/alsa/Front_Center.wav`
+2. I orffwys y recordiad, rhedwch `arecord -D yourdevice test.wav` - allan gyda CTRL+C a `aplay test.wav`
 
 
-This site has some good information regarding alsa: [http://www.volkerschatz.com/noise/alsa.html](http://www.volkerschatz.com/noise/alsa.html)
+Mae gan y safle hwn wybodaeth dda am alsa: [http://www.volkerschatz.com/noise/alsa.html](http://www.volkerschatz.com/noise/alsa.html)
 
 
 Rhedeg Macsen am y tro cyntaf
 ===
-Mae angen creu proffil ar gyfer Macsen cyn ei redeg am y tro cyntaf, er mwyn iddo wybod eich enw a.y.b.  Rhedwch y sgript ganlynol ac atebwch y cwestiynau 
+Mae angen creu proffil ar gyfer Macsen cyn ei redeg am y tro cyntaf, er mwyn iddo wybod eich enw ac ati.  Rhedwch y sgript ganlynol ac atebwch y cwestiynau 
 
 ```
 $ python client/populate.py
