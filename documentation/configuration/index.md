@@ -4,22 +4,22 @@ layout: default
 currentpage: configuration
 ---
 
-## Setting up Audio on your Pi
+## Gosod sain ar eich Pi
 
-The Audio on your Pi you need to set up after running the prepare.sh script in macsen/prepare-scripts
+Mae angen i chi osod sain ar eich Pi ar ôl rhedeg y sgript prepare.sh script yn macsen/prepare-scripts
 
-You may need to adjust the volume and/or input gain for the microphone, you can do this with `alsamixer`.
+Efallai y bydd angen i chi addasu lefel y sain a/neu gynnydd mewnbwn ar gyfer y microffon, gallwch nweud hyn gyda `alsamixer`.
 Once the adjustments have been made, you can save the settings using `alsactl store`.
 
 
-## Debugging your setup
+## Dadfygio eich gosodiad
 
-If there is an error in your log file complaining about _alsaaudio_ you may need to tinker your audio setup.
-These errors might be these:
+Os oes gwall yn eich ffeil cofnodi yn cwyno am _alsaaudio_ efallai y bydd angen i chi chwarae o gwmpas gyda'ch gosodiad sain. 
+Gall y gwallau fod y rhai hyn:
 
-- Invalid `input_device` in config:
+- 'dyfais_fewnbynnu' annilys yn y ffurfweddiad:
 
-    > alsaaudio.ALSAAudioError: No such file or directory [plughw:1]
+    > alsaaudio.ALSAAudioError: Dim y fath ffeil neu gyfeiriadur [plughw:1]
 
     Gwiriwch enw eich dyfais mewnbynnu cerdyn sain. Mae dewis y ddyfais ragosodedig ar gyfer mewnbwn a / neu allbwnyn gweithio yn aml. 
 
