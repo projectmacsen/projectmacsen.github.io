@@ -6,10 +6,10 @@ currentpage: configuration
 
 ## Gosod sain ar eich Pi
 
-Mae angen i chi osod sain ar eich Pi ar ôl rhedeg y sgript prepare.sh script yn macsen/prepare-scripts
+Mae angen i chi osod sain ar eich Pi ar ôl rhedeg y sgript prepare.sh yn macsen/prepare-scripts
 
-Efallai y bydd angen i chi addasu lefel y sain a/neu gynnydd mewnbwn ar gyfer y microffon, gallwch nweud hyn gyda `alsamixer`.
-Once the adjustments have been made, you can save the settings using `alsactl store`.
+Efallai y bydd angen i chi addasu lefel y sain a/neu gynnydd mewnbwn ar gyfer y microffon, gallwch wneud hyn gyda `alsamixer`.
+Unwaith i'r addasiadau gael eu gwneud, gallwch gadw'r gosodiadau gan ddefnyddio `alsactl store`.
 
 
 ## Dadfygio eich gosodiad
